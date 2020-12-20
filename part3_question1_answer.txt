@@ -1,0 +1,42 @@
+White	26 - 35	4652
+White	36 - 45	2736
+White	18 - 25	2576
+Black	26 - 35	2283
+Black	18 - 25	2018
+White	46 - 55	1671
+Black	36 - 45	1420
+Black	46 - 55	1045
+Black	1 - 17	710
+White	56 and Above	643
+Hispanic	26 - 35	391
+White	1 - 17	372
+Black	56 and Above	365
+Hispanic	18 - 25	319
+Hispanic	36 - 45	258
+American Indian / Alaskan Native	26 - 35	235
+Multi-Racial	26 - 35	234
+American Indian / Alaskan Native	36 - 45	233
+Asian	26 - 35	231
+Asian	18 - 25	230
+Multi-Racial	18 - 25	200
+Asian	36 - 45	152
+American Indian / Alaskan Native	18 - 25	144
+American Indian / Alaskan Native	46 - 55	128
+Hispanic	46 - 55	127
+Multi-Racial	36 - 45	97
+Hispanic	1 - 17	86
+Asian	46 - 55	83
+Multi-Racial	46 - 55	70
+Multi-Racial	1 - 17	51
+American Indian / Alaskan Native	56 and Above	49
+Asian	1 - 17	44
+Asian	56 and Above	39
+American Indian / Alaskan Native	1 - 17	35
+Other	26 - 35	30
+Other	18 - 25	28
+Hispanic	56 and Above	21
+Other	36 - 45	19
+Other	46 - 55	18
+Multi-Racial	56 and Above	9
+Other	1 - 17	5
+Other	56 and Above	4

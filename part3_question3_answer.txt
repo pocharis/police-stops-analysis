@@ -1,0 +1,48 @@
+American Indian/Alaska Native	Black	43.6
+American Indian/Alaska Native	White	37.0
+American Indian/Alaska Native	Multi-Racial	7.0
+American Indian/Alaska Native	American Indian / Alaskan Native	5.3
+American Indian/Alaska Native	Asian	4.5
+American Indian/Alaska Native	Hispanic	2.1
+American Indian/Alaska Native	Other	0.4
+Asian	White	57.8
+Asian	Black	27.6
+Asian	Hispanic	5.4
+Asian	American Indian / Alaskan Native	3.6
+Asian	Asian	3.0
+Asian	Multi-Racial	2.3
+Asian	Other	0.2
+Black or African American	White	47.8
+Black or African American	Black	35.8
+Black or African American	Hispanic	7.5
+Black or African American	American Indian / Alaskan Native	4.1
+Black or African American	Asian	2.6
+Black or African American	Multi-Racial	1.5
+Black or African American	Other	0.7
+Hispanic or Latino	White	52.4
+Hispanic or Latino	Black	30.4
+Hispanic or Latino	Hispanic	6.4
+Hispanic or Latino	Asian	4.2
+Hispanic or Latino	Multi-Racial	3.0
+Hispanic or Latino	American Indian / Alaskan Native	2.8
+Hispanic or Latino	Other	0.8
+Nat Hawaiian/Oth Pac Islander	White	56.4
+Nat Hawaiian/Oth Pac Islander	Black	30.8
+Nat Hawaiian/Oth Pac Islander	Hispanic	6.2
+Nat Hawaiian/Oth Pac Islander	American Indian / Alaskan Native	3.3
+Nat Hawaiian/Oth Pac Islander	Multi-Racial	1.8
+Nat Hawaiian/Oth Pac Islander	Asian	1.5
+Two or More Races	White	51.0
+Two or More Races	Black	31.9
+Two or More Races	American Indian / Alaskan Native	4.6
+Two or More Races	Hispanic	4.1
+Two or More Races	Asian	3.3
+Two or More Races	Multi-Racial	3.3
+Two or More Races	Other	1.8
+White	White	52.9
+White	Black	32.5
+White	Hispanic	4.9
+White	American Indian / Alaskan Native	3.4
+White	Asian	3.2
+White	Multi-Racial	2.7
+White	Other	0.3
